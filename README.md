@@ -1,6 +1,7 @@
 ﻿# Hi there, I'm IHyeon Jeong 👋
 
-백엔드 개발을 중심으로 공부하고 있습니다.\n
+백엔드 개발을 중심으로 공부하고 있습니다.
+
 최근에는 pydanticAi에 대해 관심을 갖고 있습니다.
 
 ## Tech Stack
