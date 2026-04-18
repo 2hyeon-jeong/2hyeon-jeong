@@ -1,8 +1,8 @@
-﻿# Hi there, I'm IHyeon Jeong 👋
+﻿# IHyeon Jeong's Github 👋
 
-백엔드 개발을 중심으로 공부하고 있습니다.
+백엔드 개발을 중심으로 많이 해왔고 다양한 기술을 많이 배우고 싶습니다.
 
-최근에는 pydanticAi에 대해 관심을 갖고 있습니다.
+최근에는 기획 및 PM의 중요성을 느껴 비기술적인 실력도 키우고 싶습니다.
 
 ## Tech Stack
 
