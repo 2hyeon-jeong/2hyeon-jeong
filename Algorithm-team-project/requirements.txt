@@ -1,0 +1,1 @@
+matplotlib>=3.7,<3.8  # optional: plot_results.py falls back to SVG without it

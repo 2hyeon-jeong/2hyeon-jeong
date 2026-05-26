@@ -1,0 +1,7 @@
+algorithm,reference_length,coverage,noise_rate,repeat,read_count,runtime_seconds,accuracy,positional_accuracy,mismatch_count,reconstructed_length
+trivial_reference,300,1.0,0.01,0,8,0.007534600000000002,1.0,1.0,0,300
+position_table_index,300,1.0,0.01,0,8,0.004515500000000006,1.0,1.0,0,300
+kmer_index,300,1.0,0.01,0,8,0.0010040000000000049,1.0,1.0,0,300
+bwt_index,300,1.0,0.01,0,8,0.0019076999999999844,1.0,1.0,0,300
+greedy_overlap,300,1.0,0.01,0,8,0.0006037000000000403,0.16333333333333333,0.03333333333333333,290,50
+debruijn_graph,300,1.0,0.01,0,8,0.0003988999999999798,0.1,0.02666666666666667,292,30
