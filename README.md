@@ -11,11 +11,23 @@ SW마에스트로 17기 연수생으로 활동했습니다.<br/>
 
 ### Tech Stack
 
-| 분야 | 기술 |
-| :--- | :--- |
-| App | Flutter · Dart |
-| Backend | Java · Spring Boot · Python · FastAPI |
-| Infra | AWS · Docker · GitHub Actions |
+**App**
+
+![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-333333?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi&logoColor=white)
+
+**Infra**
+
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat&logo=githubactions&logoColor=white)
 
 ### Links
 
