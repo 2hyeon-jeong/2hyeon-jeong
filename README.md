@@ -13,21 +13,21 @@ SW마에스트로 17기 연수생으로 활동했습니다.<br/>
 
 **App**
 
-![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-333333?style=flat)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-333333?style=flat&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Infra**
 
-![AWS](https://img.shields.io/badge/AWS-333333?style=flat)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ### GitHub Activity
 
