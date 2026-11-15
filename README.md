@@ -1,37 +1,22 @@
-﻿# IHyeon Jeong's Github 👋
+## 안녕하세요, 정이현입니다 👋
 
-백엔드 개발을 중심으로 많이 해왔고 다양한 기술을 많이 배우고 싶습니다.
+SW마에스트로 17기 연수생으로 활동했습니다.<br/>
+앱과 백엔드를 개발하고, AI를 서비스에 연결하는 일에 관심이 있습니다.
 
-최근에는 기획 및 PM의 중요성을 느껴 비기술적인 실력도 키우고 싶습니다.
+### 요즘 관심 있는 것
 
-## Tech Stack
+- AI 코딩 도구와 스킬을 활용한 개발 자동화
+- 사용자 피드백을 바탕으로 한 서비스 개선
+- 개발을 넘어 기획과 협업까지 함께 고민하는 것
 
-### Language
+### Tech Stack
 
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+| 분야 | 기술 |
+| :--- | :--- |
+| App | Flutter · Dart |
+| Backend | Java · Spring Boot · Python · FastAPI |
+| Infra | AWS · Docker · GitHub Actions |
 
-### Framework
+### Links
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### Infra
-
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-
-## Baekjoon
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idlgus1120)](https://solved.ac/idlgus1120)
-
-## Contact
-
-- Email: 2hyeon.dev@gmail.com
+[치즈모아](https://cheese-moa.com) · [Notion](https://app.notion.com/p/ihyeon-s-4184cbd93ddc807498e2e94441519e69?source=copy_link) · [solved.ac](https://solved.ac/idlgus1120) · [Email](mailto:2hyeon.dev@gmail.com)
