@@ -29,6 +29,13 @@ SW마에스트로 17기 연수생으로 활동했습니다.<br/>
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333333?style=flat&logo=githubactions&logoColor=white)
 
+### GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=2hyeon-jeong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;custom_title=GitHub%20Activity&amp;title_color=E6E6E6&amp;text_color=BBBBBB&amp;icon_color=999999" />
+  <img alt="GitHub 활동 통계: 최근 1년 커밋 수와 PR 수" src="https://github-stats-extended.vercel.app/api?username=2hyeon-jeong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;custom_title=GitHub%20Activity&amp;title_color=333333&amp;text_color=555555&amp;icon_color=777777" />
+</picture>
+
 ### Links
 
 [치즈모아](https://cheese-moa.com) · [Notion](https://app.notion.com/p/ihyeon-s-4184cbd93ddc807498e2e94441519e69?source=copy_link) · [solved.ac](https://solved.ac/idlgus1120) · [Email](mailto:2hyeon.dev@gmail.com)
