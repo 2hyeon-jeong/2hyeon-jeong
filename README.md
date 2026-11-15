@@ -11,6 +11,11 @@ SW마에스트로 17기 연수생으로 활동했습니다.<br/>
 
 ### Tech Stack
 
+**Algorithm**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 **App**
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -35,6 +40,10 @@ SW마에스트로 17기 연수생으로 활동했습니다.<br/>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=2hyeon-jeong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;custom_title=GitHub%20Activity&amp;title_color=E6E6E6&amp;text_color=BBBBBB&amp;icon_color=999999" />
   <img alt="GitHub 활동 통계: 최근 1년 커밋 수와 PR 수" src="https://github-stats-extended.vercel.app/api?username=2hyeon-jeong&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;custom_title=GitHub%20Activity&amp;title_color=333333&amp;text_color=555555&amp;icon_color=777777" />
 </picture>
+
+### Baekjoon · Diamond
+
+[![solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=idlgus1120)](https://solved.ac/idlgus1120)
 
 ### Links
 
